@@ -1,11 +1,26 @@
 {
   "name": "designpatterns",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Description This repository contains a collection of design patterns implemented in Typescript. Each design pattern is implemented in a separate package. The `main` method of each class contains a simple example of how to use the design pattern.",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "rxjs": "^7.2.0"
+  },
   "author": "Federico Tomadin",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/federicotomadin/Design-Patterns.git"
+  },
+  "bugs": {
+    "url": "https://github.com/federicotomadin/Design-Patterns/issues"
+  },
+  "homepage": "https://github.com/federicotomadin/Design-Patterns#readme",
+  "rootDir": "src",
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
 }

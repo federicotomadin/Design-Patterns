@@ -21,6 +21,7 @@ List the design patterns that are implemented in your project. Explain why you c
 |                   | Abstract Factory            | Provides an interface for creating families of related or dependent objects without specifying their concrete classes.                                      |
 |                   | Builder                     | Separates the construction of complex objects from their representation, allowing the same construction process to create different representations.        |
 | **Structural**    | Adapter                     | Allows the interface of an existing class to be used as another interface.                                                                                  |
+|                   | Flyweight                   | Reduces the cost of creating and manipulating a large number of similar objects.                                                                            | 
 |                   | Decorator                   | Attaches additional responsibilities to an object dynamically, providing a flexible alternative to subclassing for extending functionality.                 |
 |                   | Composite                   | Composes objects into tree structures to represent part-whole hierarchies, enabling clients to treat individual objects and compositions uniformly.         |
 |                   | Proxy                       | Provides a surrogate or placeholder for another object to control access to it.                                                                             |
